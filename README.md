@@ -1,7 +1,6 @@
 ## Hi there 👋
 
-<!--
-# I'm Abi Cupido
+I'm Abi Cupido
 Business Development Leader | B2B GTM Strategy | 
 
 
@@ -18,4 +17,3 @@ Business Development Leader | B2B GTM Strategy |
 - Email: abicam1225@gmail.com  
 
 - ⚡ Fun fact: ... I paint with oleo 🎨 and replicate my pieces into NFT`s 🖼️ 
--->
