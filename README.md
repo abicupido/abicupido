@@ -1,16 +1,21 @@
 ## Hi there 👋
 
 <!--
-**abicupido/abicupido** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# I'm Abi Cupido
+Business Development Leader | B2B GTM Strategy | 
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## 🚀 About Me
+- 💼 Currently helping Web3 startups design and implement their GTM strategies in LatAm.  
+- 📊 Specialized in outbound sales, ICP definition, and scalable pipelines.  
+- 🌍 Experienced in international prospecting across LatAm and Europe.  
+- 🎤 Speaker in Web3 communities, universities, and hackathons.  
+
+
+## 📫 How to reach me
+- LinkedIn: https://www.linkedin.com/in/abigail-cupido-843b02b1/
+- Twitter: https://x.com/MadameCC2
+- Email: abicam1225@gmail.com  
+
+- ⚡ Fun fact: ... I paint with oleo 🎨 and replicate my pieces into NFT`s 🖼️ 
 -->
